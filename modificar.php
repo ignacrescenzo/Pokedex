@@ -68,7 +68,7 @@ $pokemon = mysqli_fetch_assoc($result);
 			<input type="submit" value="Listo!">
 		</form>
 		<br><br>
-			<a href="./pokedexBD.php"><input type="submit" value="VOLVER"></a>
+			<a href="./index.php"><input type="submit" value="VOLVER"></a>
 	</div>
 </body>
 </html>
