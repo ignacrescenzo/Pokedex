@@ -6,10 +6,10 @@ $conn = mysqli_connect("localhost","root","","pokemonCrescenzoIgnacio");
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-	<link rel="stylesheet" href="./../recursos/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="./recursos/css/bootstrap.min.css" />
 	<link href="https://fonts.googleapis.com/css?family=Gamja+Flower" rel="stylesheet">
-	<script type="text/javascript" src="./../recursos/js/jquery-3.3.1.min.js"></script>
-	<script type="text/javascript" src="./../recursos/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="./recursos/js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="./recursos/js/bootstrap.min.js"></script>
 	<style>
 			.poke{
 				border-bottom: black solid 2px;
